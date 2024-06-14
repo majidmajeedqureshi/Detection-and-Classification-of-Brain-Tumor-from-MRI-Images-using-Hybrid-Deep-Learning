@@ -33,8 +33,8 @@ The dataset used for this project is publicly available on Kaggle: [Brain Tumor 
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/majidmajeedqureshi/Detection-and-Classification-of-Brain-Tumor-from-MRI-Images-using-Hybrid-Deep-Learning
-   cd brain-tumor-detection
+   git clone https://github.com/majidmajeedqureshi/Detection-and-Classification-of-Brain-Tumor-from-MRI-Images-using-Hybrid-Deep-Learning.git
+   cd Detection-and-Classification-of-Brain-Tumor-from-MRI-Images-using-Hybrid-Deep-Learning
    ```
 2. Install the required dependencies:
    ```bash
